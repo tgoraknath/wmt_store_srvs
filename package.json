@@ -1,0 +1,28 @@
+{
+  "name": "wmt_services",
+  "version": "1.0.0",
+  "description": "Walmart store services THA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgoraknath/gs-rest-service.git"
+  },
+  "keywords": [
+    "wmt"
+  ],
+  "author": "Gorak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgoraknath/gs-rest-service/issues"
+  },
+  "homepage": "https://github.com/tgoraknath/gs-rest-service#readme",
+  "dependencies": {
+    "app-root-path": "^2.1.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "trie-search": "^1.2.8"
+  }
+}
