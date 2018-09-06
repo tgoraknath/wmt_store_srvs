@@ -16,9 +16,9 @@
   "author": "Gorak",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tgoraknath/gs-rest-service/issues"
+    "url": "https://github.com/tgoraknath/wmt-store-services/issues"
   },
-  "homepage": "https://github.com/tgoraknath/gs-rest-service#readme",
+  "homepage": "https://github.com/tgoraknath/wmt-store-services/edit/master/README.md",
   "dependencies": {
     "app-root-path": "^2.1.0",
     "body-parser": "^1.18.3",
